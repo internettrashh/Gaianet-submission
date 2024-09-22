@@ -57,4 +57,7 @@ This approach allows the AI to mimic Yann LeCun's communication style and knowle
 
 ## Building for Production
 
-To create a production build:
+ ```
+   npm run build
+
+   ```
