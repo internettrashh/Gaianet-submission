@@ -32,8 +32,8 @@ This approach allows the AI to mimic Yann LeCun's communication style and knowle
 
 1. Clone the repository:
    ```
-   git clone [your-repo-url]
-   cd [your-repo-name]
+   git clone  https://github.com/internettrashh/Gaianet-submission.git
+   cd Gaianet-submission
    ```
 
 2. Install dependencies:
